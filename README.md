@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm a currently a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. I am proficient in Golang, Python, Java, JS, and HTML/CSS. I have a background in data-intensive computing and concurrent programming with an interest in back-end development. I'm eager to apply my skills in a professional setting. Actively seeking opportunities to contribute to a dynamic team.
+
+Visit my LinkedIn! : https://www.linkedin.com/in/matthewhcheung/
 <!--
 **MatthewHCheung/MatthewHCheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
