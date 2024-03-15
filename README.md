@@ -1,10 +1,10 @@
 # Hello, World! 👋
 
-I'm Matthew, a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. Passionate about all things tech, I specialize in Golang, Python, Java, JavaScript, and HTML/CSS. My academic journey has immersed me in data-intensive computing and concurrent programming, fueling my fascination with back-end development.
+I'm Matthew, a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. Passionate about all things tech, I specialize in Golang, Python, Java, JavaScript, and HTML/CSS. My academic journey has immersed me in data-intensive computing and concurrent programming, fueling my fascination with back-end and/or front-end development.
 
 ## What I Bring to the Table:
 - Proficiency in Golang, Python, Java, JavaScript, and HTML/CSS
-- Experience in data-intensive computing and concurrent programming
+- Experience in data-intensive computing, concurrent programming, geospatial programming, and front-end development
 - Enthusiasm for tackling challenges and learning new technologies
 - A collaborative spirit and eagerness to contribute to dynamic teams
 
