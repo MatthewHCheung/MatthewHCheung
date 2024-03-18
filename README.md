@@ -1,4 +1,4 @@
-# "Hi!" - Squid Chan 👋
+# Hi! 👋
 
 I'm Matthew, a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. Passionate about all things tech, I specialize in Golang, Python, Java, JavaScript, and HTML/CSS. My academic journey has immersed me in data-intensive computing and concurrent programming, fueling my fascination with back-end and/or front-end development.
 
