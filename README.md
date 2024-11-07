@@ -1,6 +1,7 @@
-# Hello
+# Hi there! 
+![image](https://github.com/user-attachments/assets/803eeb97-69f1-48b3-b761-0455bec6863f)
 
-I'm Matthew, a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. Passionate about all things tech, I specialize in Python, JavaScript, and HTML/CSS. My academic journey has immersed me in data-intensive computing and concurrent programming, fueling my fascination with fullstack development.
+I'm Matthew, a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. Passionate about all things tech, I specialize in Python, JavaScript, and HTML/CSS. My academic journey has immersed me in data-intensive computing and concurrent programming, fueling my fascination with full-stack development.
 
 ## What I Bring to the Table:
 - Proficiency in Kotlin, Python, Golang, JavaScript, and HTML/CSS
