@@ -1,6 +1,5 @@
 # Hi there! 
-![image](https://github.com/user-attachments/assets/803eeb97-69f1-48b3-b761-0455bec6863f)
-
+![1724283350814](https://github.com/user-attachments/assets/f776e025-a4e9-40ab-aefe-0c9e196bf45b)
 I'm Matthew, a junior at the University at Buffalo pursuing a Bachelor's degree in Computer Science. Passionate about all things tech, I specialize in Python, JavaScript, and HTML/CSS. My academic journey has immersed me in data-intensive computing and concurrent programming, fueling my fascination with full-stack development.
 
 ## What I Bring to the Table:
